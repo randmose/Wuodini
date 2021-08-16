@@ -1,2 +1,2 @@
-# py-face-rec
-Facial Recognition app
+# Wuodini
+A basic NLP app
